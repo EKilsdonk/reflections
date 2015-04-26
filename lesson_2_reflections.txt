@@ -4,3 +4,6 @@ the directory
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a fictional holding place for files that are to be changed and committed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only adding the files to be committed to the staging area you create one commit per logical change.
