@@ -2,6 +2,3 @@ What happens when you initialize a repository? Why do you need to do it?
 A directory on your computer is now being tracked by Git. You want to do this for version control of the files in
 the directory
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
-The staging area is sort of fictional. It is a holding place for Git, to track which files are going into the
-next commit.
