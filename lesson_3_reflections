@@ -12,3 +12,6 @@ on somebody else's code but don't have permission to change it in their own repo
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that you can work from that one, and you are in sync with the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By email probably. Would be quick, but hard to keep track of versions and differences between versions.
