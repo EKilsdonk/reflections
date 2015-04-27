@@ -15,3 +15,7 @@ So that you can work from that one, and you are in sync with the remote.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By email probably. Would be quick, but hard to keep track of versions and differences between versions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Then you could first have a collaborator check the change. If you have any errors, they could be fixed before
+changing the master
