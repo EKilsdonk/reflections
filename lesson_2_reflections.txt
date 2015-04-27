@@ -14,3 +14,7 @@ a different language, or want to experiment with something.
 
 How do the diagrams help you visualize the branch structure?
 With the diagrams you visualize the actual branch structure, contained the commmits that have been made
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that the new commit references both branches and that from that point on you only have one branch.
+Although the second branch still exists if you do not actually delete it. 
