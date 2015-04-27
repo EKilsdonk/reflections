@@ -11,3 +11,6 @@ By only adding the files to be committed to the staging area you create one comm
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches offer the opportunity to have multiple versions. This is handy if you for instance want your files in 
 a different language, or want to experiment with something.
+
+How do the diagrams help you visualize the branch structure?
+With the diagrams you visualize the actual branch structure, contained the commmits that have been made
