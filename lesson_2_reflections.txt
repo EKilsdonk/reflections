@@ -18,3 +18,6 @@ With the diagrams you visualize the actual branch structure, contained the commm
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is that the new commit references both branches and that from that point on you only have one branch.
 Although the second branch still exists if you do not actually delete it. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: takes less time and labor. cons: could create weird code.
